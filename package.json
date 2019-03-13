@@ -1,0 +1,19 @@
+{
+  "name": "react",
+  "version": "1.0.0",
+  "description": "reactnode",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "aumin",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.4",
+    "express": "^4.16.4",
+    "express-myconnection": "^1.0.4",
+    "mysql": "^2.16.0",
+    "nodemon": "^1.18.4",
+    "react-router-dom": "^4.3.1"
+  }
+}
